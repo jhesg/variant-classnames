@@ -1,14 +1,15 @@
 {
-  "name": "variant-classnames",
-  "version": "1.1.0",
-  "description": "Transform component props to classnames",
+  "name": "variant-selectors",
+  "version": "0.0.1",
+  "description": "transform object values into conditional output",
   "main": "dist/index.js",
   "keywords": [
     "classnames",
     "react",
     "tailwind",
     "css",
-    "tailwindcss"
+    "tailwindcss",
+    "typescript"
   ],
   "types": "dist/index.d.ts",
   "scripts": {
@@ -23,14 +24,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattvalleycodes/variant-classnames.git"
+    "url": "git+https://github.com/jhesg/variant-selectors.git"
   },
   "author": "Matt Valley",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mattvalleycodes/variant-classnames/issues"
+    "url": "https://github.com/jhesg/variant-selectors/issues"
   },
-  "homepage": "https://github.com/mattvalleycodes/variant-classnames#readme",
+  "homepage": "https://github.com/jhesg/variant-selectors#readme",
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "@typescript-eslint/eslint-plugin": "^4.28.2",

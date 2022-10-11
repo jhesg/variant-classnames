@@ -1,4 +1,4 @@
-import isNil from "./is-nil";
+import { isNil } from "./objects";
 
 describe("isNil()", () => {
   it("returns true for null/undefined values", () => {
